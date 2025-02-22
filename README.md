@@ -7,10 +7,7 @@ I specialize in **building scalable infrastructure, automating deployments, and 
 
 ## **🌐 Connect with Me**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshhaa03@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshhaa03@gmail.com)  
 
 ---
 
@@ -47,25 +44,15 @@ I specialize in **building scalable infrastructure, automating deployments, and 
 
 ## **📊 GitHub Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotHarshhaa&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotHarshhaa&theme=codeSTACKr&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarshhaa&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
----
-
-## **🏆 GitHub Trophies**  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=NotHarshhaa&theme=dracula&no-frame=false&no-bg=true&margin-w=4)  
-
----
-
-## **💡 Random Dev Quote**  
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+<table>
+    <tr> 
+        <td><img src="https://github-readme-stats.vercel.app/api?username=NotHarshhaa&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarshhaa&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></td>
+    </tr>
+</table>  
 
 ---
 
 ## **💰 Support Me**  
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harshhaavardhanreddy)  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/notharshhaa)  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harshhaavardhanreddy) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/notharshhaa)  
