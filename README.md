@@ -53,6 +53,6 @@
 
 ---
 
-## **💰 Support Me**  
+## **💰 Support Me**
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harshhaavardhanreddy) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/notharshhaa)  
+[![GitHub](https://img.shields.io/badge/GitHub-NotHarshhaa-181717?style=for-the-badge&logo=github)](https://github.com/NotHarshhaa)  [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-harshhaareddy-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/harshhaareddy)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-harshhaareddy-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/harshhaareddy)
