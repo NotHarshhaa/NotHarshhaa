@@ -1,6 +1,8 @@
 # **🚀 About Me**  
 
-**DevOps Enthusiast** | Cloud, CI/CD, Kubernetes, AWS, Azure, Terraform & Automation 🔥 Explore my [top DevOps projects](https://github.com/NotHarshhaa/NotHarshhaa?tab=readme-ov-file#-most-useful-devops--cloud-repositories-to-learn--grow-as-a-devops-engineer), tools, and learning resources to scale infrastructure, automate deployments, and optimize cloud architectures. Let's build, deploy, and innovate! 🚀.  
+![aboutme](https://imgur.com/CvgYNnv.png)
+
+**DevOps Enthusiast** | Cloud, CI/CD, Kubernetes, AWS, Azure, Terraform & Automation 🔥 Explore my [top DevOps projects](https://github.com/NotHarshhaa/NotHarshhaa?tab=readme-ov-file#-most-useful-devops--cloud-repositories-to-learn--grow-as-a-devops-engineer), tools, and learning resources to scale infrastructure, automate deployments, and optimize cloud architectures. **Let's build, deploy, and innovate!** 🚀.  
 
 ---
 
