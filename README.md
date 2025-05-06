@@ -22,6 +22,23 @@ Hey there! 👋 I'm **Harshhaa Vardhan Reddy**, a passionate **DevOps Engineer**
 
 ---
 
+[![image-2.png](https://i.postimg.cc/jqBZ9NLw/image-2.png)](https://postimg.cc/6TLr48Vt)
+
+## 🌐 **Empowering DevOps & Cloud Learners — One Resource at a Time**
+
+I’ve created an ecosystem for DevOps enthusiasts, job-seekers, and practitioners — designed to make **learning practical and accessible**:
+
+🔹 **[💻 Real-Time Projects Hub](https://projects.prodevopsguytech.com)** — Work on real-world DevOps/Cloud projects.  
+🔹 **[📚 Ultimate Docs Portal](https://docs.prodevopsguytech.com)** — 900+ curated learning materials.  
+🔹 **[📦 Repositories Central](https://repos.prodevopsguytech.com)** — Scripts, infra, prep content, and more.  
+🔹 **[🧭 Jobs Portal](https://jobs.prodevopsguytech.com)** — Find your next opportunity in DevOps or Cloud.  
+🔹 **[📰 DevOps Blog](https://blog.prodevopsguytech.com)** // **[☁️ Cloud Blog](https://cloud.prodevopsguytech.com)** — Learn from deep dives and practical guides.
+
+🎯 **Why this exists:**  
+Because **DevOps shouldn’t be locked behind paywalls or complexity**. I believe in **learning by building and sharing** — and this is my contribution to the community.
+
+---
+
 ![git](https://imgur.com/TCiZWsZ.png)
 
 ## [![Find Me Online](https://img.shields.io/badge/Find_Me_Online-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy)  
