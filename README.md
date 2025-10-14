@@ -1,4 +1,4 @@
-# <div align="center">🚀 **Harshhaa Vardhan Reddy**</div>
+# <div align="center">🚀 **Welcome to the Home of Best DevOps Resources**</div>
 
 <div align="center">
   
@@ -12,9 +12,15 @@
   <p><strong>Hey there!</strong> 👋 I'm a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently.</p>
 </div>
 
+<div align="center">
+
+![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-00BFFF?style=for-the-badge&logo=fastapi&logoColor=white)
+
 <br>
 
-## 💫 About Me
+## 💫 About Me - Your DevOps Guide
+
+<img src="https://imgur.com/DY2IoaL.png" alt="learn" width="800px">
 
 <table>
 <tr>
@@ -54,6 +60,8 @@
 > [!IMPORTANT]
 >
 > Empowering DevOps & Cloud Learners — One Resource at a Time
+> 
+> **Your one-stop destination for comprehensive DevOps knowledge and practical resources**
 
 <table>
 <tr>
@@ -70,6 +78,12 @@
 - [🔬 DevOps Engineering Lab](https://www.devops-engineering.site) - Hands-on CI/CD & automation
 - [🛠️ DevOps Tool Guides](https://www.devopsguides.site) - Setup & installation guides
 - [📑 DevOps Cheatsheet](https://cheatsheet.prodevopsguytech.com) - Comprehensive tools & practices
+- [🔧 DevOps Environment Toolkit](https://devops-environment-toolkit.vercel.app) - Ready-to-use local setup with all essential tools for your DevOps journey
+- [🧰 DevOps Tools Collection](https://tools.prodevopsguytech.com) - Comprehensive collection of essential DevOps tools for development, deployment, monitoring, and security
+- [📊 DevOps Monitoring in a Box](https://devops-monitoring-in-a-box.vercel.app) - Ready-to-use advanced monitoring platform with Prometheus, Grafana, Loki, Alertmanager, and Node Exporter
+- [✨ Awesome DevOps UI](https://awesomedevopsui.site) - Curated collection of beautiful, powerful UI-based tools for DevOps and Cloud professionals
+- [🎓 K8s Learning](https://k8s-learning.live) - Master Kubernetes from scratch and become a Certified Kubernetes Administrator (CKA)
+- [📈 Kubernetes Dashboard](https://kubernetes-dashboard.netlify.app) - Kubernetes dashboard integrated with health checks, Trivy scanning and pod monitoring
 
 </td>
 <td width="50%">
@@ -81,6 +95,8 @@ DevOps knowledge should be accessible to everyone. We believe in:
 - 🤝 Community-driven growth
 - 📈 Continuous improvement
 - 🌟 Practical experience
+- 🌍 Global DevOps community support
+- 💡 Innovation through collaboration
 
 </td>
 </tr>
@@ -99,6 +115,8 @@ DevOps knowledge should be accessible to everyone. We believe in:
 
 ## 📂 Featured Repositories
 
+<img src="https://imgur.com/TCiZWsZ.png" alt="git" width="800px">
+
 <table>
 <tr>
 <td width="50%">
@@ -106,7 +124,7 @@ DevOps knowledge should be accessible to everyone. We believe in:
 ### 🌟 Popular Projects
 - [DevOps Real-Time Projects](https://github.com/NotHarshhaa/DevOps-Projects.git)
 - [Kubernetes Learning Path](https://github.com/NotHarshhaa/kubernetes-learning-path.git)
-- [550+ DevOps Interview Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions)
+- [1100+ DevOps Interview Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions)
 - [AWS DevOps Real-Time Deployment](https://github.com/NotHarshhaa/AWS-DevOps-Real-Time-Deployment)
 
 </td>
@@ -123,6 +141,8 @@ DevOps knowledge should be accessible to everyone. We believe in:
 </table>
 
 ## 📝 Latest Blog Posts
+
+<img src="https://imgur.com/fja3q42.png" alt="blog" width="800px">
 
 <table>
 <tr>
@@ -144,6 +164,8 @@ DevOps knowledge should be accessible to everyone. We believe in:
 </table>
 
 ## ⚡ Tech Stack
+
+<img src="https://imgur.com/RknLHXQ.png" alt="tech" width="800px">
 
 <div align="center">
 
@@ -177,11 +199,24 @@ DevOps knowledge should be accessible to everyone. We believe in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarshhaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
 </div>
 
+## 🏆 DevOps Community Achievements
+
+<div align="center">
+  
+- 🌟 **5000+** GitHub Stars across projects
+- 🍴 **1000+** Project Forks
+- 👨‍💻 **50+** Open Source Contributors
+- 📚 **900+** Curated Learning Resources
+  
+</div>
+
 ## 💝 Support My Work
 
 > [!TIP]
 >
 > If you find my work valuable, consider supporting me! Your support helps create more DevOps content and projects.
+> 
+> **Join our growing community of DevOps enthusiasts and help make quality learning resources accessible to everyone!**
 
 <div align="center">
 
