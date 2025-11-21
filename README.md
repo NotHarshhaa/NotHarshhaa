@@ -58,10 +58,9 @@
 ## 🌐 DevOps Learning Hub
 
 > [!IMPORTANT]
->
 > Empowering DevOps & Cloud Learners — One Resource at a Time
-> 
-> **Your one-stop destination for comprehensive DevOps knowledge and practical resources**
+
+#### **Your one-stop destination for comprehensive DevOps knowledge and practical resources**
 
 <table>
 <tr>
@@ -213,10 +212,9 @@ DevOps knowledge should be accessible to everyone. We believe in:
 ## 💝 Support My Work
 
 > [!TIP]
->
 > If you find my work valuable, consider supporting me! Your support helps create more DevOps content and projects.
-> 
-> **Join our growing community of DevOps enthusiasts and help make quality learning resources accessible to everyone!**
+
+#### **Join our growing community of DevOps enthusiasts and help make quality learning resources accessible to everyone!**
 
 <div align="center">
 
