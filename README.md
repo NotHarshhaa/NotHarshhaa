@@ -1,15 +1,15 @@
-# <div align="center">🚀 **Welcome to the Home of Best DevOps Resources**</div>
+# <div align="center">🚀 **Welcome to the Home of Best DevOps, MLOps & Platform Engineering Resources**</div>
 
 <div align="center">
   
-[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
+[![DevOps Engineer | MLOps | Platform Engineering | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_MLOps_%7C_Platform_Engineering_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
 
 <img src="https://imgur.com/CvgYNnv.png" alt="aboutme" width="800px">
 
 </div>
 
 <div align="center">
-  <p><strong>Hey there!</strong> 👋 I'm a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently.</p>
+  <p><strong>Hey there!</strong> 👋 I'm a passionate DevOps Engineer, MLOps specialist, and Platform Engineering expert on a mission to automate everything, scale cloud infrastructures efficiently, and build internal development platforms that empower engineering teams.</p>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 <br>
 
-## 💫 About Me - Your DevOps Guide
+## 💫 About Me - Your DevOps, MLOps & Platform Engineering Guide
 
 <img src="https://imgur.com/DY2IoaL.png" alt="learn" width="800px">
 
@@ -30,7 +30,15 @@
 - 🌩️ **Cloud & DevOps Specialist**
   - Architecting scalable infrastructures
   - AWS, Azure, Kubernetes expert
-- 🤖 **Automation Enthusiast**
+- 🤖 **MLOps Engineer**
+  - Machine learning pipeline automation
+  - Model deployment and monitoring
+  - Data versioning and experiment tracking
+- 🏗️ **Platform Engineering Expert**
+  - Internal Developer Platforms (IDP)
+  - Self-service infrastructure
+  - Developer experience optimization
+- 🔧 **Automation Enthusiast**
   - CI/CD pipelines
   - Infrastructure as Code (IaC)
 - 📝 **Content Creator**
@@ -55,12 +63,13 @@
   <img src="https://i.postimg.cc/jqBZ9NLw/image-2.png" alt="DevOps Banner" width="800px">
 </div>
 
-## 🌐 DevOps Learning Hub
+## 🌐 DevOps, MLOps & Platform Engineering Learning Hub
 
 > [!IMPORTANT]
-> Empowering DevOps & Cloud Learners — One Resource at a Time
+> 
+> Empowering DevOps, MLOps & Platform Engineering Learners — One Resource at a Time
 
-#### **Your one-stop destination for comprehensive DevOps knowledge and practical resources**
+#### **Your one-stop destination for comprehensive DevOps, MLOps, and Platform Engineering knowledge and practical resources**
 
 <table>
 <tr>
@@ -84,11 +93,18 @@
 - [🎓 K8s Learning](https://k8s-learning.live) - Master Kubernetes from scratch and become a Certified Kubernetes Administrator (CKA)
 - [📈 Kubernetes Dashboard](https://kubernetes-dashboard.netlify.app) - Kubernetes dashboard integrated with health checks, Trivy scanning and pod monitoring
 
+### 🏗️ Platform Engineering Platforms
+- [🚀 DevOps TaskLab](https://tasklab.prodevopsguytech.com) - Interactive platform for DevOps tasks and experiments
+- [📚 DevOps/Cloud Resources Portal](https://docs.prodevopsguytech.com) - Comprehensive documentation portal for DevOps and Cloud resources
+- [🤖 MLOps Project Generator](https://mlops-gen.prodevopsguytech.com) - Generate MLOps projects with best practices
+- [⚙️ DevOps Project Generator](https://devops-gen.prodevopsguytech.com) - Automated DevOps project scaffolding tool
+- [☁️ AWS Infrastructure Generator](https://aws-infra.prodevopsguytech.com) - Generate AWS infrastructure templates and configurations
+
 </td>
 <td width="50%">
 
 ### 🎯 Our Mission
-DevOps knowledge should be accessible to everyone. We believe in:
+DevOps, MLOps, and Platform Engineering knowledge should be accessible to everyone. We believe in:
 - 🔓 Breaking down paywalls
 - 🛠️ Learning by building
 - 🤝 Community-driven growth
@@ -96,6 +112,8 @@ DevOps knowledge should be accessible to everyone. We believe in:
 - 🌟 Practical experience
 - 🌍 Global DevOps community support
 - 💡 Innovation through collaboration
+- 🤖 Democratizing MLOps education
+- 🏗️ Empowering platform engineering practices
 
 </td>
 </tr>
@@ -193,10 +211,7 @@ DevOps knowledge should be accessible to everyone. We believe in:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotHarshhaa&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarshhaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=NotHarshhaa&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🏆 DevOps Community Achievements
 
@@ -212,9 +227,10 @@ DevOps knowledge should be accessible to everyone. We believe in:
 ## 💝 Support My Work
 
 > [!TIP]
-> If you find my work valuable, consider supporting me! Your support helps create more DevOps content and projects.
+> 
+> If you find my work valuable, consider supporting me! Your support helps create more DevOps, MLOps, and Platform Engineering content and projects.
 
-#### **Join our growing community of DevOps enthusiasts and help make quality learning resources accessible to everyone!**
+#### **Join our growing community of DevOps, MLOps, and Platform Engineering enthusiasts and help make quality learning resources accessible to everyone!**
 
 <div align="center">
 
